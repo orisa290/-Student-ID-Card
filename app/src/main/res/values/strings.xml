@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student_ID_Card</string>
+    <string name="atuhaire_brenda">ATUHAIRE BRENDA</string>
+    <string name="programme_bsc_computer_science">BSC COMPUTER SCIENCE</string>
+    <string name="registration_number_24_1_306_d_100">REG NO: 24/1/306/D/100</string>
+    <string name="date_of_issue_01_02_2026">ISSUE: 01/02/2026</string>
+    <string name="expiry_date_01_02_2029">EXPIRY: 01/02/2029</string>
+</resources>
